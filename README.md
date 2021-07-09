@@ -18,4 +18,4 @@ explicando el rendimiento en cada uno de las diferentes operaciones que se hacen
 Python fue el lenguaje elegido para la programación, y CloudCompare para la visualización de
 las nubes, además del análisis de los objetos detectados.
 
-[Detección de obtaculos a partir de datos LiDAR para automoviles autonomos] (https://1drv.ms/b/s!Ag4Ham9-lzVOhdhr0DBVZJQvT5NCVw?e=PhLNwH)
+[Detección de obtaculos a partir de datos LiDAR para automoviles autonomos](https://1drv.ms/b/s!Ag4Ham9-lzVOhdhr0DBVZJQvT5NCVw?e=PhLNwH)
