@@ -1,4 +1,4 @@
-# Detección de obtaculos a partir de datos LiDAR para automoviles autonomos
+# Detección de obstaculos a partir de datos LiDAR para automóviles autónomos
 Trabajo de fin de grado sobre la detección de obstáculos a a partir de datos LiDAR en vehículos autónomos
 
 
